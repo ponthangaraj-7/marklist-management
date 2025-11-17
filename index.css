@@ -2,6 +2,7 @@ body{
     background-image: url(sdc4.jpg);
     margin:50px;
     overflow: hidden;
+    background-repeat:no-repeat;
 }
 
 form h1{
@@ -67,5 +68,6 @@ form .u_p{
     padding: 5px;
     margin: 5px;
 } 
+
 
 
